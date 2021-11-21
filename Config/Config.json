@@ -23,7 +23,7 @@
             //服务器名称
             "QLName": "qinglong",
             //青龙url
-            "QLurl": "http://qinglong:5700",
+            "QLurl": "",
             //青龙2,9 OpenApi Client ID
             "QL_CLIENTID": "",
             //青龙2,9 OpenApi Client Secret
