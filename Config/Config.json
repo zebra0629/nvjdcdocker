@@ -21,7 +21,7 @@
             //序号必须从1开始
             "QLkey": 1,
             //服务器名称
-            "QLName": "青龙面板",
+            "QLName": "qinglong",
             //青龙url
             "QLurl": "http://qinglong:5700",
             //青龙2,9 OpenApi Client ID
